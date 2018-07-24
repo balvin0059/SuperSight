@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: a8697e44a58d10b44be423c15117aad1
+timeCreated: 1515379512
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5F69\u86CB402_0"
+    21300002: "\u5F69\u86CB402_1"
+    21300004: "\u5F69\u86CB402_2"
+    21300006: "\u5F69\u86CB402_3"
+    21300008: "\u5F69\u86CB402_4"
+    21300010: "\u5F69\u86CB402_5"
+    21300012: "\u5F69\u86CB402_6"
+    21300014: "\u5F69\u86CB402_7"
+    21300016: "\u5F69\u86CB402_8"
+    21300018: "\u5F69\u86CB402_9"
+    21300020: "\u5F69\u86CB402_10"
+    21300022: "\u5F69\u86CB402_11"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 34
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_1"
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_2"
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_3"
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_4"
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_5"
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_6"
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_7"
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_8"
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_9"
+      rect:
+        serializedVersion: 2
+        x: 5571
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_10"
+      rect:
+        serializedVersion: 2
+        x: 6190
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB402_11"
+      rect:
+        serializedVersion: 2
+        x: 6809
+        y: 0
+        width: 619.3333
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

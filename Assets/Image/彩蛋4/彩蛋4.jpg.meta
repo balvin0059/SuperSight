@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 1fde95e4dac0ace499f2c2ad0b75f91a
+timeCreated: 1515379111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5F69\u86CB4_0"
+    21300002: "\u5F69\u86CB4_1"
+    21300004: "\u5F69\u86CB4_2"
+    21300006: "\u5F69\u86CB4_3"
+    21300008: "\u5F69\u86CB4_4"
+    21300010: "\u5F69\u86CB4_5"
+    21300012: "\u5F69\u86CB4_6"
+    21300014: "\u5F69\u86CB4_7"
+    21300016: "\u5F69\u86CB4_8"
+    21300018: "\u5F69\u86CB4_9"
+    21300020: "\u5F69\u86CB4_10"
+    21300022: "\u5F69\u86CB4_11"
+    21300024: "\u5F69\u86CB4_12"
+    21300026: "\u5F69\u86CB4_13"
+    21300028: "\u5F69\u86CB4_14"
+    21300030: "\u5F69\u86CB4_15"
+    21300032: "\u5F69\u86CB4_16"
+    21300034: "\u5F69\u86CB4_17"
+    21300036: "\u5F69\u86CB4_18"
+    21300038: "\u5F69\u86CB4_19"
+    21300040: "\u5F69\u86CB4_20"
+    21300042: "\u5F69\u86CB4_21"
+    21300044: "\u5F69\u86CB4_22"
+    21300046: "\u5F69\u86CB4_23"
+    21300048: "\u5F69\u86CB4_24"
+    21300050: "\u5F69\u86CB4_25"
+    21300052: "\u5F69\u86CB4_26"
+    21300054: "\u5F69\u86CB4_27"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 79.57143
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_1"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 79.57143
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_2"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_3"
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_4"
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_5"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_6"
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_7"
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_8"
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_9"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_10"
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_11"
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_12"
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_13"
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_14"
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_15"
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_16"
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_17"
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_18"
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_19"
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_20"
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_21"
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_22"
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_23"
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_24"
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_25"
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_26"
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u5F69\u86CB4_27"
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 80
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
